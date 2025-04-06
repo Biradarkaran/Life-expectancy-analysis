@@ -18,7 +18,7 @@ This project uses two datasets:
 ## Installation and Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/life-expectancy-analysis.git
+git clone https://github.com/Biradarkaran/Life-expectancy-analysis.git
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
